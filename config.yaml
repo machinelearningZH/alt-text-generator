@@ -1,0 +1,56 @@
+# Configuration settings for the Alt-Text-Generator app
+
+app_name: "Alt-Text-Generator"
+
+# Env file path
+env_file: ".env"
+
+# API Configuration
+api:
+  openrouter_base_url: "https://openrouter.ai/api/v1"
+
+# LLM Configuration
+llm:
+  default_model: "google/gemini-2.5-flash"
+  max_workers: 20 # Number of parallel LLM requests
+  max_tokens: 512 # Maximum tokens for LLM response
+
+# Supported image formats
+images:
+  supported_extensions:
+    - ".jpeg"
+    - ".jpg"
+    - ".png"
+    - ".webp"
+
+# Logging Configuration
+logging:
+  log_file: "alt_text_generator.log"
+  log_level: "INFO"
+
+# Request Configuration
+requests:
+  timeout: 30
+  max_retries: 3
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+# HTML Parsing Configuration
+html_parsing:
+  max_context_elements: 20 # Maximum elements to include as context
+  context_search_depth: 20 # How many levels to search for context
+  minimal_text_length: 5 # Minimum characters to consider for context
+
+# UI Configuration
+ui:
+  max_context_display: 2000 # Maximum characters to display in context preview
+  image_display_width: 400 # Width for image preview
+
+# CMS Configuration
+cms:
+  link_prefix: "your-cms-link-prefix" # Prefix for your CMS links
+
+# Excel Export Configuration
+excel:
+  image_url: "Image URL"
+  alt_text_bisher: "Alt Text bisher"
+  vorgeschlagener_alt_text: "Vorgeschlagener Alt-Text (Deutsch)"

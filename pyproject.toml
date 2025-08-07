@@ -1,0 +1,22 @@
+[project]
+name = "alt-text-generator"
+version = "0.1.0"
+description = "Automagically generate German alt texts for images on web pages using AI."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "ipykernel>=6.30.0",
+    "lxml>=6.0.0",
+    "openai>=1.97.1",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.1",
+    "pre-commit>=4.2.0",
+    "pyarrow>=21.0.0",
+    "pytest>=8.4.1",
+    "python-dotenv>=1.1.1",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.4",
+    "streamlit>=1.47.0",
+    "watchdog>=6.0.0",
+]

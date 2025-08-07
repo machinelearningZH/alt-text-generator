@@ -1,0 +1,12 @@
+# Sample website URLs for processing
+# Each URL should be a webpage that contains images to analyze
+# Lines starting with # are ignored
+
+# Canton of Zurich example pages
+https://www.zh.ch/de/familie/angebote-fuer-familien-mit-kindern/kinder-und-jugendhilfezentren.html
+https://www.zh.ch/de/umwelt-tiere/naturschutz.html
+https://www.zh.ch/de/planen-bauen/hochbau/bauprojekte.html
+
+# Add your website URLs here (one per line)
+# https://example.com/page1
+# https://example.com/page2

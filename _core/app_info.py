@@ -1,0 +1,3 @@
+APP_INFO = """
+**Prototyp für einen KI-Alt-Text-Generator**.\n\nDie App analysiert alle Bilder einer Webseite mit KI und erstellt deutsche Alt-Text-Vorschläge mit einem KI-Sprachmodell (LLM). Gib eine öffentliche Webseiten-URL ein oder wähle eine der Beispiel-URLs. Alternativ kannst du ein eigenes Bild hochladen und einen Alt-Text dafür generieren.\n\n:red[**Beachte, dass deine Inhalte bei Clouddiensten verarbeitet werden. Gib ausschliesslich als öffentlich klassifizierte Daten ein.**]\n\n:red[**Beachte auch, dass KI-Sprachmodelle Fehler machen. Überprüfe die Vorschläge immer.**]
+""".strip()

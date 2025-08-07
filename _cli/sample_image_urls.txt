@@ -1,0 +1,7 @@
+# Sample image URLs for processing
+# Each URL should be a downloadable image
+# Lines starting with # are ignored
+
+https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/umwelt-tiere/naturschutz/bilder/katzensee1.jpg.zhweb-transform/header-image-large/katzensee1.1664738451050.jpeg
+https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/umwelt-tiere/naturschutz/bilder/trockenstandort.jpg.zhweb-transform/carousel-picture-large/trockenstandort.1707315768765.jpeg
+https://www.zh.ch/content/dam/zhweb/bilder-dokumente/footer/news/2025/07/zup_111_titelseite.PNG.zhweb-transform/news-teaser-image-large/zup_111_titelseite.1753971169566.PNG

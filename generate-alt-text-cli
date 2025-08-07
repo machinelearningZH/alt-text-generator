@@ -1,0 +1,11 @@
+#!/bin/bash
+# Convenience script for running the alt-text CLI with uv
+
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Change to the project directory
+cd "$SCRIPT_DIR"
+
+# Run the CLI with uv
+exec uv run python _cli/cli.py "$@"
