@@ -2,8 +2,8 @@
 
 **Automagically generate German alt texts for web images using AI.**
 
-![GitHub License](https://img.shields.io/github/license/statistikZH/alt-text-generator)
-[![PyPI - Python](https://img.shields.io/badge/python-v3.10+-blue.svg)](https://github.com/statistikZH/alt-text-generator)
+![GitHub License](https://img.shields.io/github/license/machinelearningzh/alt-text-generator)
+[![PyPI - Python](https://img.shields.io/badge/python-v3.10+-blue.svg)](https://github.com/machinelearningzh/alt-text-generator)
 [![GitHub Stars](https://img.shields.io/github/stars/machinelearningZH/alt-text-generator.svg)](https://github.com/machinelearningZH/alt-text-generator/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/machinelearningZH/alt-text-generator.svg)](https://github.com/machinelearningZH/alt-text-generator/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/machinelearningZH/alt-text-generator.svg)](https://img.shields.io/github/issues-pr/machinelearningZH/alt-text-generator)
