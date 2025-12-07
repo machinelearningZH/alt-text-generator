@@ -209,3 +209,4 @@ __marimo__/
 
 *.json
 .DS_Store
+*.code-workspace
