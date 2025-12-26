@@ -11,7 +11,7 @@ api:
 
 # LLM Configuration
 llm:
-  default_model: "google/gemini-2.5-flash"
+  default_model: "google/gemini-3-flash-preview"
   max_workers: 20 # Number of parallel LLM requests
   max_tokens: 512 # Maximum tokens for LLM response
 

@@ -56,7 +56,7 @@ Or create a `.env` file in the project root:
 OPENROUTER_API_KEY=your_api_key_here
 ```
 
-Currently, the application uses Google Gemini 2.5 Flash via OpenRouter. You can easily change this by simply inserting a different OpenRouter model ID in `config.yaml`.
+Currently, the application uses Google Gemini 3 Flash via OpenRouter. You can easily change this by simply inserting a different OpenRouter model ID in `config.yaml`.
 
 ## Usage
 
@@ -263,12 +263,6 @@ We welcome feedback and contributions! [Email us](mailto:datashop@statistik.zh.c
 ### Development Setup
 
 We use [`ruff`](https://docs.astral.sh/ruff/) for linting and formatting.
-
-Install pre-commit hooks for automatic checks before committing:
-
-```bash
-pre-commit install
-```
 
 ### Running Tests
 

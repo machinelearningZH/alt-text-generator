@@ -258,7 +258,6 @@ def main():
                             regenerate_alt_text(i)
 
                     with col2:
-                        
                         # Create a link to the CMS URL if applicable
                         # Uncomment the following lines if you have a CMS link prefix configured
                         # config["cms"]["link_prefix"] should be defined in your config
