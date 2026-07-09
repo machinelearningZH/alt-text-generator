@@ -251,8 +251,8 @@ This tool was developed for the cantonal administration to help content creators
 ## Project Team
 
 - **Simone Luchetta, Hannes Weber** - [Team Informationszugang & Dialog, Staatskanzlei](https://www.zh.ch/de/staatskanzlei/digitale-verwaltung/team.html)
-- **Céline Colombo** - [Koordinationsstelle Teilhabe, Statistisches Amt](https://www.zh.ch/de/politik-staat/teilhabe.html)
-- **Chantal Amrhein**, **Patrick Arnecke** – [Statistisches Amt Zürich, Team Data](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt/data.html)
+- **Céline Colombo** - [Koordinationsstelle Teilhabe, Amt für Statistik und Daten](https://www.zh.ch/de/politik-staat/teilhabe.html)
+- **Chantal Amrhein**, **Patrick Arnecke** – [Amt für Statistik und Daten, Team Data](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/amt-fuer-statistik-und-daten.html)
 
 Thanks to **Corinna Grobe**, **Thomas Hofer** and **Roger Zedi** for their valuable contributions.
 
