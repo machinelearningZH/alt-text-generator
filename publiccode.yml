@@ -1,0 +1,55 @@
+publiccodeYmlVersion: 0.5.0
+name: Alt-Text-Generator
+applicationSuite: Accessibility & Language Simplification
+url: https://github.com/machinelearningZH/alt-text-generator
+releaseDate: 2025-08-07
+platforms:
+  - web
+  - windows
+  - mac
+  - linux
+categories:
+  - marketing
+  - website-builder
+developmentStatus: stable
+softwareType: standalone/other
+organisation:
+  uri: https://ld.admin.ch/canton/1
+  name: Zurich
+description:
+  en:
+    localisedName: Alt-Text-Generator
+    shortDescription: Automagically generate German alt texts for web images using AI.
+    longDescription: The Alt-Text-Generator helps your communications team quickly
+      produce accessible German alt texts for the images on your website — an
+      essential requirement for web accessibility compliance that's often
+      tedious to do manually at scale. Simply provide an image or an entire
+      webpage URL, and the tool uses AI to draft a fitting description, taking
+      into account the image itself as well as surrounding context like
+      headings, captions, and any existing alt text. It can process a single
+      image on the spot via a simple web interface, or handle your whole site in
+      one go through the command-line tool, exporting results as an Excel file
+      ready for editorial review. Because it relies on an external AI provider
+      (OpenRouter) to analyze images, it should only be used with non-sensitive,
+      publicly intended content — which fits naturally with its purpose of
+      describing public-facing website images. In short, it turns a
+      time-consuming accessibility task into a fast, reviewable draft, making it
+      easier for your team to keep growing web content compliant and inclusive.
+    documentation: https://github.com/machinelearningZH/alt-text-generator/blob/main/README.md
+    features:
+      - LLM
+      - Context-Aware Anaysis
+      - Bildbeschreibung
+      - Web Scraping
+      - multi-format
+legal:
+  license: MIT
+maintenance:
+  type: internal
+  contacts:
+    - name: Team Data, Amt für Statistik und Daten
+      email: datashop@statistik.zh.ch
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - de-CH
